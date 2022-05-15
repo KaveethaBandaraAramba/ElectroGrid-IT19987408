@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\A\Desktop\puf\ElectroGrid-EG---IT19982212-main\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
